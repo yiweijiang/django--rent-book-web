@@ -9,6 +9,8 @@
 ### 登入
 <img src="https://i.imgur.com/rc14US5.png" width="70%" height="70%"></img>
 
+---
+
 ### 預定
 <img src="https://github.com/yiweijiang/django-rent-book-web/blob/master/display/rent.gif" width="100%" height="100%">
 
