@@ -4,4 +4,4 @@
 
 ### 登入
 
-<img src="https://i.imgur.com/rc14US5.png" width="30%" height="30%"></img>
+<img src="https://i.imgur.com/rc14US5.png" width="60%" height="60%"></img>
