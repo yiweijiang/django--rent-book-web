@@ -4,7 +4,7 @@
 
 ### 登入
 
-![](https://i.imgur.com/jjnLN1y.png =40%x)![](https://i.imgur.com/KXV7gkY.png =60%x)
+![image](https://i.imgur.com/jjnLN1y.png){:height="50%" width="50%"}![image](https://i.imgur.com/KXV7gkY.png){:height="50%" width="50%"}
 
 
 
