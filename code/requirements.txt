@@ -1,5 +1,5 @@
-Django==2.2.10
-Pillow==7.0.0
+Django==2.2.27
+Pillow==9.0.0
 gunicorn==19.9.0
 WhiteNoise==5.0.1
 psycopg2==2.8.4
