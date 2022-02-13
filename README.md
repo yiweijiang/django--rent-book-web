@@ -1,5 +1,5 @@
 # django-rent-book-web
-
+使用Django框架，並上傳至Heroku平台的租書網站。
 ## DEMO
 
 ### 首頁
